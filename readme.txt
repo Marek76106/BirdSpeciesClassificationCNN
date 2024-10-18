@@ -1,4 +1,4 @@
-This repository contains a project developed as part of a Machine Learning course at the University of Osijek, focusing on bird species classification using convolutional neural networks. The goal is to train a model to classify 25 species of birds from the "Indian-Birds-Species-Image-Classification" dataset. The dataset consists of 37,000 images, with 30,000 used for training and 7,500 for validation. 
+This repository contains a project developed as part of a Machine Learning course at the University of Osijek, focusing on bird species classification using convolutional neural networks. The goal is to train a model to classify 25 species of birds from the "Indian-Birds-Species-Image-Classification" dataset. The dataset consists of 37,000 images, with 30,000 used for training and 7,500 for validation. -@ https://www.kaggle.com/datasets/ichhadhari/indian-birds
 
 
  Key Features:
